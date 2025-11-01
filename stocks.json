@@ -1,0 +1,37 @@
+{
+  "sz301171": {
+    "name": "易点天下",
+    "price": "30.84",
+    "change_percent": "6.09",
+    "net_inflow": "4146.49",
+    "update_time": "21:03:20"
+  },
+  "sh600036": {
+    "name": "招商银行",
+    "price": "40.89",
+    "change_percent": "-0.75",
+    "net_inflow": "-27137.79",
+    "update_time": "21:03:21"
+  },
+  "sh600519": {
+    "name": "贵州茅台",
+    "price": "1430.01",
+    "change_percent": "0.23",
+    "net_inflow": "8773.27",
+    "update_time": "21:03:17"
+  },
+  "sz301170": {
+    "name": "锡南科技",
+    "price": "28.42",
+    "change_percent": "2.01",
+    "net_inflow": "448.71",
+    "update_time": "21:03:23"
+  },
+  "sz301169": {
+    "name": "零点有数",
+    "price": "45.16",
+    "change_percent": "3.15",
+    "net_inflow": "-990.85",
+    "update_time": "21:03:21"
+  }
+}
